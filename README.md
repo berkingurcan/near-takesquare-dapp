@@ -1,4 +1,4 @@
-berkingGreeting
+TAKE SQUARE DAPP
 ==================
 
 This [React] app was initialized with [create-near-app]
